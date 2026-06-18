@@ -1,3 +1,5 @@
+package Week_1.day_3;
+
 import java.util.Arrays;
 
 class Solution {

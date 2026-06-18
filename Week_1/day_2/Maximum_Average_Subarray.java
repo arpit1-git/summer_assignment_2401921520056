@@ -1,3 +1,5 @@
+package Week_1.day_2;
+
 class Solution{
 
     public double findMaxAverage(int[] nums, int k) {

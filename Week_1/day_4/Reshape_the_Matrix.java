@@ -1,6 +1,6 @@
-package week 1 day 4;
+package Week_1.day_4;
 
-public class Matrix_Diagonal_Sum {
+public class Reshape_the_Matrix {
 
     public int[][] matrixReshape(int[][] mat, int r, int c) {
         int m = mat.length;
