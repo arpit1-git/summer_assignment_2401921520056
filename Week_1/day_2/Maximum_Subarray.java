@@ -1,6 +1,6 @@
 package Week_1.day_2;
 
-class Solution {
+public class Maximum_Subarray {
 
     public int maxSubArray(int[] nums) {
         int bestending = nums[0];
