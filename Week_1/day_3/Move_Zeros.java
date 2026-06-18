@@ -1,6 +1,6 @@
 package Week_1.day_3;
 
-class Solution {
+public class Move_Zeros {
 
     public void moveZeroes(int[] nums) {
         int n = nums.length;
