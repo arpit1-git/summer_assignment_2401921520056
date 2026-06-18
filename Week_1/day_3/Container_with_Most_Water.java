@@ -1,6 +1,6 @@
 package Week_1.day_3;
 
-class Solution {
+public class Container_with_Most_Water {
 
     public int maxArea(int[] height) {
         int i = 0;
