@@ -1,7 +1,7 @@
 package Week_1.day_1;
 
 import java.util.*;
-class Solution {
+public class Solution {
     public int maxProfit(int[] prices) {
 
         int minPrice = prices[0];
