@@ -2,7 +2,7 @@ package Week_1.day_1;
 
 import java.util.*;
 
-class Solution {
+public class two_sum {
     public int[] twoSum(int[] nums, int target) {
 
         HashMap<Integer, Integer> map = new HashMap<>();
