@@ -1,6 +1,7 @@
-package Week_2.day_1;
+package week_2.day_1;
 
 public class FirstUniqueCharacter {
+
 
     public int firstUniqChar(String s) {
         int[] arr = new int[26];
@@ -18,3 +19,4 @@ public class FirstUniqueCharacter {
         return -1;
     }
 }
+    
