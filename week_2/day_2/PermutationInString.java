@@ -1,8 +1,8 @@
-package Week_2.day_2;
-
-public class PermutationInString {
+package week_2.day_2;
 
 import java.util.Arrays;
+
+public class PermutationInString {
 
     public boolean checkInclusion(String s1, String s2) {
         int n = s1.length();
