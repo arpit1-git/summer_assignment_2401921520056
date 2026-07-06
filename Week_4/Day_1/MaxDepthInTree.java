@@ -2,7 +2,7 @@ package Week_4.Day_1;
 
 import javax.swing.tree.TreeNode;
 
-public class MaxdepthinTree {
+public class MaxDepthInTree {
 
     public int maxDepth(TreeNode root) {
         if (root == null) {
