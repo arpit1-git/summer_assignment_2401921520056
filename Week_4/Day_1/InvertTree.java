@@ -2,7 +2,7 @@ package Week_4.Day_1;
 
 import javax.swing.tree.TreeNode;
 
-public class InventTree {
+public class InvertTree {
 
     public TreeNode invertTree(TreeNode root) {
         if (root == null) {
